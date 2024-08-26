@@ -1,1 +1,0 @@
-A1,LOR,40.0,100000.0,Windows 11,AMD Ryzen
